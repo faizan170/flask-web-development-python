@@ -1,0 +1,19 @@
+Write code for following scnerios
+
+1. Computer area of circle by radius
+r = ?
+output should be area of circle. e.g
+"Area of circle is: output"
+
+........................................................
+
+2. Use this data to print output like given
+
+first_name = "ali"
+last_name = "raZa"
+class = 9
+age = 14
+
+
+output:
+"Ali Raza is a student of class 9. His age is 14"
