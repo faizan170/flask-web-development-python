@@ -14,6 +14,8 @@ last_name = "raZa"
 class = 9
 age = 14
 
+e.g.
+Use concatination and string operations
 
 output:
 "Ali Raza is a student of class 9. His age is 14"
