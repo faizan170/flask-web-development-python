@@ -1,0 +1,19 @@
+1. Write a function for checking the speed of drivers. This function should have one parameter: speed.
+If speed is less than 70, it should print "Ok".
+Otherwise, for every 5km above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points. 
+For example, if the speed is 80, it should print: “Points: 2”.
+If the driver gets more than 12 points, the function should print: "License suspended"
+
+
+Hint:
+Use while loop to get input.
+On exit input. It should break loop.
+input value should be greater than 0.
+
+
+2. Create a basic calculator with basic operations.
+	add, subtract, multiply, divide, and moduls.
+	Input 2 numbers from users
+	Input operation type.
+	Create functions for operations and call those functions accodingly.
+	Show results.
